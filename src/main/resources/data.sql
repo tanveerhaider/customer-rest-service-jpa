@@ -1,0 +1,3 @@
+insert into CUSTOMER (id, email_id, first_name, last_name, gender, cell_phone, zip_code, city) values (1, 'blynthal0@liveinternet.ru', 'Brett', 'Lynthal', 'M', '6964722337', '45404 CEDEX', 'Fleury-les-Aubrais');
+insert into CUSTOMER (id, email_id, first_name, last_name, gender, cell_phone, zip_code, city) values (2, 'agouthier1@reuters.com', 'Auguste', 'Gouthier', 'F', '4711776883', '057418', 'Chigorodó');
+commit;
